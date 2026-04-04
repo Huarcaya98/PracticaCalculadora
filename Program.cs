@@ -13,6 +13,8 @@ class Program
 
     //Rama suma//
     static double Sumar(double a, double b) => a + b ;
-    
+
+    //Rama-multiplicacion//
+    static double multiplicacion(double a, double b)=> a * b;    
 
 }
