@@ -10,4 +10,9 @@ class Program
     }
     // Rama-Resta//
         static double Restar(double a, double b) =>a - b ;
+
+    //Rama suma//
+    static double Sumar(double a, double b) => a + b ;
+    
+
 }
