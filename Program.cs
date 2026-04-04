@@ -6,5 +6,8 @@ class Program
     {
         Console.WriteLine("--Calculadora Grupal V2");
         //----//
+
+        // Rama-Resta//
+        static double Restar(double a, double b) =>a - b ;
     }
 }
